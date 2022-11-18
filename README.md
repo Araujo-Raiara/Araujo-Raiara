@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bem Vindo ao meu perfil!! ✨✨
+
+# 😄 Pronomes: She/Her
+# 🌱 in constant learning
+
 
 <!--
 **Araujo-Raiara/Araujo-Raiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
