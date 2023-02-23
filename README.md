@@ -66,6 +66,9 @@
    
     
 <h3 align="left">About:</h3>
+    
+    <img style="float:right" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" />
+
       <div class="container" style="text-align: center;">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujo-raiara&show_icons=true&locale=en&layout=compact" alt="araujo-raiara" /></p>
 </div>
@@ -80,7 +83,6 @@
    
 
     
-<img style="float:right" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" />
 
 
 
