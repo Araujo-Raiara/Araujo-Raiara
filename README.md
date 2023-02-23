@@ -1,5 +1,5 @@
 [![MasterHead](https://i.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.webp)]
-<h1 align="center">Oi 👋, sou a Raiara, mas pode me chamar de Rai ❤️</h1>
+<h1 align="center">Hi 👋, i'm Raiara, but you can call me Rai ❤️</h1>
 <h3 align="center">apaixonada por desenvolvimento Android</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
