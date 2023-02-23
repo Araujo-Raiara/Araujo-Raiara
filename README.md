@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> 
-<h3 align="center">In love with technology 👩🏻‍💻</h3>
+<h3 align="center">In love with technology 👩🏻‍💻</h3> <img style="float:right" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" />
+
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
 
@@ -67,8 +68,6 @@
     
 <h3 align="left">About:</h3>
     
-    <img style="float:right" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" />
-
       <div class="container" style="text-align: center;">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujo-raiara&show_icons=true&locale=en&layout=compact" alt="araujo-raiara" /></p>
 </div>
