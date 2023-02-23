@@ -1,11 +1,4 @@
-
- <div style="text-align:center">
-  <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" alt="RobotAndroidGIF">
-</div>
-
-
-
-<h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> 
+<h1 align="left">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> 
 <h3 align="center">In love with technology 👩🏻‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
@@ -69,6 +62,10 @@
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt ="mssql" width="40" height="40"/> 
     </a>
+   
+    <div style="text-align:right">
+  <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" alt="RobotAndroidGIF">
+</div>
     
 <h3 align="left">About:</h3>
       <div class="container" style="text-align: center;">
