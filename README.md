@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> ![RobotAndroidGIF]
+<h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> 
 <h3 align="center">In love with technology 👩🏻‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
