@@ -2,13 +2,13 @@
 <h3 align="center">In love with technology 👩🏻‍💻</h3> <img style="float:right" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" />
 
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
+<img align="right" alt="Coding" width="700" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
 </p>
 
-- <img align="left" alt="learning" width="35" src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development with Android**
+- <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development with Android**
 - 💬 Ask me about **Android**
 
 <h3 align="left"> 📫 How to reach me: </h3>
