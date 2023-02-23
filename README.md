@@ -1,8 +1,8 @@
-![RobotAndroidGIF](https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif)
 
  
 
-<h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1>
+<h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> ![RobotAndroidGIF](https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif)
+
 <h3 align="center">In love with technology 👩🏻‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
