@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
 </p>
 
-- <img src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development with Android**
+- <img align="left" alt="learning" width="10" src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development with Android**
 - 💬 Ask me about **Android**
 
 <h3 align="left"> 📫 How to reach me: </h3>
