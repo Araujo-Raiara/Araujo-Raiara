@@ -64,5 +64,19 @@
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt ="mssql" width="40" height="40"/> 
     </a>
+    
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujo-raiara&show_icons=true&locale=en&layout=compact" alt="araujo-raiara" /></p>
+    
+    <div style="text-align:center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=araujo-raiara&show_icons=true&locale=en" alt ="araujo-raiara" />
+</div>
+
+<div style="text-align:center;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araujo-raiara&" alt= "araujo-raiara" />
+</div>
+
+    
+    
+
 
 
