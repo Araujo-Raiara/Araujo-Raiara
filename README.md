@@ -56,6 +56,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height=" 40"/> 
    </a>
    <a href="https://site.mockito.org/" target="_blanck" rel="noreferrer">
-    <img src=https://upload.vectorlogo.zone/logos/mockito/images/36c60459-46b2-46dd-87b7-5ed157df95d4.svg alt="mockito" width="40" height="40"/> 
+    <img src="https://upload.vectorlogo.zone/logos/mockito/images/36c60459-46b2-46dd-87b7-5ed157df95d4.svg" alt="mockito" width="40" height="40"/> 
    </a>
+   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src= "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt ="Kotlin" width="40" height="40"/> 
+    </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt ="mssql" width="40" height="40"/> 
+    </a>
+
 
