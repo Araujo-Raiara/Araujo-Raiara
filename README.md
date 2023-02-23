@@ -16,7 +16,8 @@
 
 - 🌱 I'm currently learning **mobile development with Android**
 - 💬 Ask me about **Android**
-- 📫 How to reach me: ****
+- 📫 How to reach me: 
+
   <a href="haraujo_raiara@outlook.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373951/outlook.svg" alt ="e-mail" width="40" height="40"/> 
     </a>
@@ -24,13 +25,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/raiara-a-6541a3193/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/raiarauju" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://discord.gg/raiarauju#4017" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
 
