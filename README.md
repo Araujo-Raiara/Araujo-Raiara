@@ -66,7 +66,7 @@
    
    
     
-<h3 align="left">About:</h3>
+<h3 align="left">GitHub Stats:</h3>
     
 <div class="container" style="text-align: center;">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujo-raiara&show_icons=true&locale=en&layout=compact" alt="araujo-raiara" /></p>
