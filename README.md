@@ -79,9 +79,9 @@
 </div>
    
 
-    <div style="text-align:center;">
-  <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" alt="RobotAndroidGIF">
-</div>
+    
+    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif">
+
 
 
     
