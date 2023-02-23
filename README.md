@@ -1,7 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://tenor.com/pt-BR/view/droidcon-synesthesia-android-gif-18815626)" alt="MasterHead">
-</div>
+![RobotAndroidGIF](https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif)
 
+ 
 
 <h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1>
 <h3 align="center">In love with technology 👩🏻‍💻</h3>
