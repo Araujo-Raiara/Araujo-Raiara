@@ -1,5 +1,8 @@
 
- ![RobotAndroidGIF](https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif)
+ <div style="text-align:center">
+  <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" alt="RobotAndroidGIF">
+</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> ![RobotAndroidGIF]
