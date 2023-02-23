@@ -66,6 +66,9 @@
     </a>
     
 <h3 align="left">About:</h3>
+      <div class="container" style="text-align: center;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujo-raiara&show_icons=true&locale=en&layout=compact" alt="araujo-raiara" /></p>
+</div>
    
   <div style="text-align:center;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=araujo-raiara&show_icons=true&locale=en" alt ="araujo-raiara" />
@@ -75,9 +78,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araujo-raiara&" alt= "araujo-raiara" />
 </div>
    
-   <div class="container" style="text-align: center;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujo-raiara&show_icons=true&locale=en&layout=compact" alt="araujo-raiara" /></p>
-</div>
+
 
 
     
