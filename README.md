@@ -67,11 +67,7 @@
     
 <h3 align="left">About:</h3>
    
-   <div style="text-align:center;">
-    <img align="center" src="![GitHub stars](https://img.shields.io/github/stars/araujo-raiara/?style=social)" alt ="araujo-raiara" />
-</div>
-  
-    <div style="text-align:center;">
+  <div style="text-align:center;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=araujo-raiara&show_icons=true&locale=en" alt ="araujo-raiara" />
 </div>
 
