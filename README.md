@@ -31,7 +31,8 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
-
+  
+    
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
@@ -65,6 +66,9 @@
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt ="mssql" width="40" height="40"/> 
     </a>
+     <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt ="csharp" width="40" height="40"/> 
+    </a>
    
    
     
@@ -81,6 +85,8 @@
 <div style="text-align:center;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=araujo-raiara&" alt= "araujo-raiara" />
 </div>
+    
+  
    
 
     
