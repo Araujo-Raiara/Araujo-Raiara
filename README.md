@@ -16,7 +16,8 @@
 
 - 🌱 I'm currently learning **mobile development with Android**
 - 💬 Ask me about **Android**
-- 📫 How to reach me: 
+
+<h3 align="left"> 📫 How to reach me: </h3>
 
   <a href="haraujo_raiara@outlook.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373951/outlook.svg" alt ="e-mail" width="40" height="40"/> 
