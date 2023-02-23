@@ -1,4 +1,7 @@
-![MasterHead](https://i.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.webp)
+<div style="text-align: center;">
+  <img src="https://tenor.com/pt-BR/view/droidcon-synesthesia-android-gif-18815626)" alt="MasterHead">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1>
 <h3 align="center">In love with technology 👩🏻‍💻</h3>
