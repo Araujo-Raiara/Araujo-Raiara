@@ -9,7 +9,7 @@
 </p>
 
 - <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development Android**
-- <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/411476/ask.svg" /> Ask me about **Android**
+- <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/411476/ask.svg" /> Ask me about **Android development**
 - 
 
 <img align="left" alt="learning" width="35" src="https://www.svgrepo.com/show/429923/message-send-message-mail.svg" /> <h3 align="left"> How to reach me: </h3>
