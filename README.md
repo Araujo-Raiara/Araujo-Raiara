@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> 
+<img align="center" alt="Coding" width="450" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
 <h3 align="center">In love with technology 👩🏻‍💻</h3> <img style="float:right" src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" />
 
 
-<img align="right" alt="Coding" width="450" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
