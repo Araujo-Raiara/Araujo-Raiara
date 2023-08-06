@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729CD&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara%2C+but+you+can+call+me+Rai;Welcome+to+my+Github!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=5001&pause=1000&color=F72EEF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara+%3A);Welcome+to+my+Github+space!" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">I am Software developer. I like programming, problem solving, video games, animes, coffee, cats, conversations, foods from different cultures and cook</h3> 
