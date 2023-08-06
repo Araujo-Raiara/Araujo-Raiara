@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Raiara, but you can call me Rai ❤️</h1> 
-<h3 align="center">In love with technology 👩🏻‍💻</h3> 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729CD&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara%2C+but+you+can+call+me+Rai;Welcome+to+my+Github!" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">I am Software developer. I like programming, problem solving, video games, animes, coffee, cats, conversations, foods from different cultures and cook</h3> 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" width="200"/>
 </div>
