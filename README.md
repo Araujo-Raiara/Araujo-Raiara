@@ -1,4 +1,6 @@
-<p align="center">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
+</p><p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=5001&pause=1000&color=F72EEF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara+%3A);Welcome+to+my+Github+space!" alt="Typing SVG" /></a>
 </p>
 
@@ -11,9 +13,7 @@
 
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
-</p>
+
 
 - <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development Android**
 - <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/411476/ask.svg" /> Ask me about **Android development**
