@@ -19,8 +19,7 @@
 - <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/411476/ask.svg" /> Ask me about **Android development**
 - 
 
-<img align="left" alt="learning" width="35" src="https://www.svgrepo.com/show/429923/message-send-message-mail.svg" /> <h3 align="left"> How to reach me: </h3>
-
+ <h3 align="left"> How to reach me: </h3>
 
   <a href="haraujo_raiara@outlook.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373951/outlook.svg" alt ="e-mail" width="40" height="40"/> 
