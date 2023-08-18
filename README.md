@@ -15,7 +15,7 @@
 
 
 
-- <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/31136/books.svg" /> I'm currently learning **mobile development for Android SO**
+- <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/31136/books.svg" /> Android Developer**
 - <img align="left" alt="learning" width="25" src="https://www.svgrepo.com/show/411476/ask.svg" /> Ask me about **Android development**
 
  <h3 align="left"> How to reach me: </h3>
