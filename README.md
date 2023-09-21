@@ -1,10 +1,13 @@
 <p align="left">
+  <img src="https://img.shields.io/badge/Android%20-%20focus?label=focus"/> </p><p align="left"> <img src="https://img.shields.io/badge/kotlin-kotlin"/></p>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
 </p><p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=5001&pause=1000&color=F72EEF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara+%3A);Welcome+to+my+Github+space!" alt="Typing SVG" /></a>
 </p>
-
-<h3 align="center">I am Software developer. I like programming, problem solving, video games, animes, coffee, cats, conversations, foods from different cultures and cook</h3> 
+<h4 About me 🐛</h4>
+  
+<h3 align="center">I am a software developer who enjoys programming and solving problems</h3> 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" width="200"/>
 </div>
