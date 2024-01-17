@@ -82,7 +82,7 @@
     <img src="https://mockk.io/doc/logo-site.png" alt ="Mockk" width="40" height="40"/> 
     </a>
      <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-    <img src="[https://mockk.io/doc/logo-site.png](https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png)" alt ="Mockito" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt ="Mockito" width="40" height="40"/> 
     </a>   
      <a href="https://gradle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/svg/353831/gradle" alt ="gradle" width="40" height="40"/> 
