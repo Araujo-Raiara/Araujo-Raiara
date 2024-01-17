@@ -78,9 +78,18 @@
      <a href="https://developer.android.com/jetpack/compose/documentation?hl=pt-br" target="_blank" rel="noreferrer">
     <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt ="jetpackCompose" width="40" height="40"/> 
     </a>
-   
-   
-    
+      <a href="https://mockk.io/#kotlin-academy-articles-" target="_blank" rel="noreferrer">
+    <img src="https://mockk.io/doc/logo-site.png" alt ="Mockk" width="40" height="40"/> 
+    </a>
+     <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="[https://mockk.io/doc/logo-site.png](https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png)" alt ="Mockito" width="40" height="40"/> 
+    </a>   
+     <a href="https://gradle.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/svg/353831/gradle" alt ="gradle" width="40" height="40"/> 
+    </a>  
+     <a href="https://developer.android.com/training/testing/espresso?hl=pt-br" target="_blank" rel="noreferrer">
+    <img src="https://developer.android.com/static/images/training/testing/espresso.png?hl=pt-br" alt ="Espresso" width="40" height="40"/> 
+    </a>   
   
    
 
