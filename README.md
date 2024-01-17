@@ -75,8 +75,8 @@
      <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt ="csharp" width="40" height="40"/> 
     </a>
-     <a href="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452184/csharp.svg" alt ="jetpackCompose" width="40" height="40"/> 
+     <a href="https://developer.android.com/jetpack/compose/documentation?hl=pt-br" target="_blank" rel="noreferrer">
+    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt ="jetpackCompose" width="40" height="40"/> 
     </a>
    
    
