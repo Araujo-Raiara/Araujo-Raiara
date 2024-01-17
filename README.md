@@ -85,7 +85,7 @@
     <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt ="Mockito" width="40" height="40"/> 
     </a>   
      <a href="https://gradle.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/svg/353831/gradle" alt ="gradle" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/353831/gradle.svg" alt ="gradle" width="40" height="40"/> 
     </a>  
      <a href="https://developer.android.com/training/testing/espresso?hl=pt-br" target="_blank" rel="noreferrer">
     <img src="https://developer.android.com/static/images/training/testing/espresso.png?hl=pt-br" alt ="Espresso" width="40" height="40"/> 
