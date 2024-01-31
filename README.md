@@ -1,21 +1,18 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/Android%20-%20focus?label=focus"/> </p><p align="left"> <img src="https://img.shields.io/badge/kotlin-kotlin"/></p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=araujo-raiara&label=Profile%20views&color=0e75b6&style=flat" alt="araujo-raiara" />
-</p><p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=5001&pause=1000&color=F72EEF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara+%3A);Welcome+to+my+Github+space!" alt="Typing SVG" /></a>
+<p align="left"> <img src="https://img.shields.io/badge/Android%20-%20focus?label=focus"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/kotlin-kotlin"/></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=5001&pause=1000&color=F72EEF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara+%3A);Welcome+to+my+Github+space!" alt="Typing SVG" /></a>
 </p>
-<h4 About me 🐛</h4>
-  
+
+<h4 About me 🐛</h4>  
 <h3 align="center">
   
 ## My Journey 
   
-My journey in the world of programming has been an exciting one. I've been on a continuous quest for knowledge and growth. As a junior developer, I'm thrilled to apply my skills in real-world projects and contribute to the ever-evolving landscape of mobile app development.
+My journey in the world of programming has been an exciting one. I've been on a continuous quest for knowledge and growth. I'm thrilled to apply my skills in real-world projects and contribute to the ever-evolving landscape of mobile app development.
 
 ## What Drives Me
 
-I am driven by a curiosity to understand how things work under the hood and a passion for creating software that makes a positive impact. Whether it's building intuitive user interfaces or diving into the backend logic, I find fulfillment in the entire process of software development.
+I am driven by a curiosity to understand how things work under the hood and a passion for creating software that makes a positive impact. 
 
 ## I Love
 
@@ -23,7 +20,7 @@ I enjoy staying up-to-date with the latest industry trends and am always eager t
 
 ## Let's Connect
 
-I am excited to connect with like-minded individuals, fellow developers, and anyone interested in the fascinating world of Android development. Feel free to reach out for collaboration, sharing insights, or just a friendly chat!
+I am excited to connect with like-minded individuals, fellow developers, and anyone interested in the fascinating world of development. Feel free to reach out for collaboration, sharing insights, or just a friendly chat!
 
 Happy coding! 🚀 </h3> 
 
