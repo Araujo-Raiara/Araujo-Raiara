@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://img.shields.io/badge/Android%20-%20focus?label=focus"/> </p>
 <p align="left"> <img src="https://img.shields.io/badge/kotlin-kotlin"/></p>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=5001&pause=1000&color=F72EEF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raiara+%3A);Welcome+to+my+Github+space!" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"></a>
 </p>
+
+## Hi there! 👋🏻
 
 <h4 About me 🐛</h4>  
 <h3 align="center">
@@ -24,9 +26,6 @@ I am excited to connect with like-minded individuals, fellow developers, and any
 
 Happy coding! 🚀 </h3> 
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/62944970/220807412-b9366dac-b295-4d9c-a1ba-9afad3c1f9be.gif" width="200"/>
-</div>
 
 <img align="right" alt="Coding" width="450" src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp">
 
