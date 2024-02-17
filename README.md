@@ -47,10 +47,7 @@ Happy coding! 🚀 </h3>
   <a href="https://www.linkedin.com/in/raiara-a-6541a3193/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/raiarauju" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://discord.gg/raiarauju#4017" target="_blank" rel="noopener noreferrer">
+  <a href="discordapp.com/users/yumeko._.j" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40" />
   </a>
 </p>
